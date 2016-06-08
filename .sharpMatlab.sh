@@ -1,7 +1,9 @@
+#--------------------------------------------------------------------------------------------------------------
+# Shell script to change the path of Java Plugins in order to prevent blurry appearance of Matlab on MBPRetina
+#--------------------------------------------------------------------------------------------------------------
+
 !/bin/sh
-# Script to change path of Java Plugins in order to prevent blurry appearance
-# ./start_Matlab.sh
-# alias somescript.sh='. ./somescript.sh'
+
 clear
 
 echo "The script for MATLAB R2014a starts now..."
