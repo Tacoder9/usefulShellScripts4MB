@@ -1,0 +1,7 @@
+# Provided aliases which you need to copy into your .bash_profile
+
+# Setting a new PATH for MATLAB R2014a
+alias matlab='cd /Users/Christoph && ./.startMatlab.sh'
+
+# Setting a new alias to show or hide hidden files
+alias showhide='cd /Users/Christoph && ./.showAndHide.sh'
