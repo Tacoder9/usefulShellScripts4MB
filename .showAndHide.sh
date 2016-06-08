@@ -1,5 +1,7 @@
 #------------------------------------------------------------------
 # Shell script to either show or hide .hiddenFiles in your Finder
+# Don't forget to add an alias to your .bash_profile to be able to
+# use this script (see aliases.txt)
 #------------------------------------------------------------------
 #!/bin/sh
 # to update .bash_profile type $source ~/.bash_profile
